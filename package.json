@@ -8,7 +8,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [
-    "json-server,heroku, node, REST API"
+    "json-server, heroku, node, REST API"
   ],
   "author": "Jesper Orb",
   "license": "ISC",
